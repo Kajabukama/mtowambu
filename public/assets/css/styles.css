@@ -561,7 +561,7 @@ select:focus {
   border-radius: 0;
   text-transform: uppercase;
   width: auto;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 600;
   transition-duration: 0.3s;
   transition-timing-function: ease-in-out
@@ -606,7 +606,7 @@ select:focus {
   border-radius: 0;
   text-transform: uppercase;
   width: auto;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 600;
   transition-duration: 0.3s;
   transition-timing-function: ease-in-out;
@@ -2614,7 +2614,7 @@ h6.title-style2.white {
   counter-increment: count;
   content: "0" counter(count);
   float: right;
-  font-family: "Montserrat", sans-serif
+  font-family: "Open Sans", sans-serif
 }
 
 .feature-box-04 .feature-box-inner:hover i:after {
@@ -8806,7 +8806,7 @@ h2.resp-accordion.resp-tab-active {
   display: inline-block;
   border: 2px solid #27ae60;
   background: #fff;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #232323;
   font-size: 16px;
   font-weight: 500;
@@ -9107,7 +9107,7 @@ h2.resp-accordion.resp-tab-active {
   display: inline-block;
   border: 2px solid #27ae60;
   background: #fff;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #232323;
   font-size: 16px;
   font-weight: 500;

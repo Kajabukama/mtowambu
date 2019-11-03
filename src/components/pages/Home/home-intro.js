@@ -15,7 +15,7 @@ function HomeIntro() {
                   </div>
                   <div className="features-flex-square-content">
                     <h4><Link to="#">Cultural Experiences</Link></h4>
-                    <p>We are know for our excellent delivery of true and exceptional Cultural Tours in Tanzania, come join us for an unforgetable Experience.</p>
+                    <p>We are known for our excellent delivery of true and exceptional Cultural Tours in Tanzania, come join us for an unforgetable Experience.</p>
                     <Link to="#" className="features-flex-square-content-button">Learn More</Link>
                   </div>
                 </div>

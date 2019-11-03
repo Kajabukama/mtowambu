@@ -22,12 +22,12 @@ class HomeSlider extends React.Component {
               <p>{item.description}</p>
               <button>{item.button}</button>
             </div>
-            <div>
+            {/* <div>
               <img src={item.userProfile} alt={item.user} />
               <span>
                 authored by <strong>{item.user}</strong>
               </span>
-            </div>
+            </div> */}
           </div>
         ))}
       </Slider>

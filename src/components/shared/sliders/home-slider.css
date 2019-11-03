@@ -15,18 +15,19 @@ button {
           transition: all .5s ease;
   border: none;
   background: #FFD800;
-  border-radius: 30px;
+  border-radius: 0px;
   text-transform: uppercase;
   box-sizing: border-box;
-  padding: 15px 40px;
+  padding: 20px 40px;
   font-weight: 400;
-  font-size: 13px;
+  font-size: 18px;
   cursor: cursor;
 }
 
 button:hover {
   color: #FFFFFF;
-  background: #222222;
+  background: transparent;
+  border: 1px solid #FFD800;
   -webkit-filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.2));
           filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.2));
 }

@@ -88,7 +88,7 @@ function Footer() {
               </div>
             </div>
             <div class="col-md-6 text-right xs-text-center">
-              <p class="xs-margin-5px-top xs-font-size13">&copy; 2019 Cultural Tourism Mto wa Mbu, Developed by  CraftSoft</p>
+              <p class="xs-margin-5px-top xs-font-size13">&copy; 2019 Cultural Tourism Mto wa Mbu, Developed by  @kajabukama</p>
             </div>
           </div>
         </div>
