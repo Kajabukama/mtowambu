@@ -5,12 +5,10 @@ function ListService() {
   return (
     <section class="bg-light-gray">
       <div class="container">
-
         <div class="section-heading"><span>Services</span>
           <h3>Popular Experiences in Mto wa Mbu</h3>
           <p class="width-55 sm-width-75 xs-width-95">Business consectetur adipisicing elit eiusmod tempor incididunt ut labore et dolore magna aliqua quis nostrud exercitation consequat.</p>
         </div>
-
         <div class="row">
           <div class="col-lg-4 col-md-12 sm-margin-30px-bottom">
             <div class="blog-grids4">
