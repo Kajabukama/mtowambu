@@ -33,5 +33,5 @@ function AboutSection() {
     </section>
   )
 }
-const video = require("../../../assets/videos/down-time.mp4");
+// const video = require("../../../assets/videos/down-time.mp4");
 export default AboutSection;

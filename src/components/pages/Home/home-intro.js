@@ -23,7 +23,7 @@ function HomeIntro() {
             </div>
           </div>
           <div className="col-lg-4 col-md-12 no-padding bg-white">
-            <div className="padding-ten-all sm-padding-four-all xs-padding-eight-tb xs-padding-six-lr bg-theme-90 height-100">
+            <div className="padding-ten-all sm-padding-four-all xs-padding-eight-tb xs-padding-six-lr bg-theme-black height-100">
               <div className="features-flex-square">
                 <div className="clearfix">
                   <div className="features-flex-square-icon">
@@ -39,7 +39,7 @@ function HomeIntro() {
             </div>
           </div>
           <div className="col-lg-4 col-md-12 no-padding bg-white">
-            <div className="padding-ten-all sm-padding-four-all xs-padding-eight-tb xs-padding-six-lr bg-theme-80 height-100">
+            <div className="padding-ten-all sm-padding-four-all xs-padding-eight-tb xs-padding-six-lr bg-theme-brown height-100">
               <div className="features-flex-square">
                 <div className="clearfix">
                   <div className="features-flex-square-icon">

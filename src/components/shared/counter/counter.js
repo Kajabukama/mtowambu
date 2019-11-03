@@ -2,7 +2,7 @@ import React from 'react';
 
 function Counter() {
   return (
-    <section class="parallax" data-overlay-dark="3" data-Background={bg} style={theme.bg}>
+    <section class="parallax" data-overlay-dark="5" data-Background={bg} style={theme.bg}>
       <div class="container">
         <div class="row">
           <div class="col-6 col-lg-3 col-md-6 sm-margin-30px-bottom">
