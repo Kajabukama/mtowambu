@@ -9,20 +9,6 @@ class Navbar extends Component {
     return (
       <header className="header-style4">
         <div className="navbar-default">
-          <div className="top-search bg-theme">
-            <div className="container">
-              <form className="search-form" action="search.html" method="GET" acceptCharset="utf-8">
-                <div className="input-group">
-                  <span className="input-group-addon cursor-pointer">
-                    <button className="search-form_submit fas fa-search font-size18 text-white" type="submit"></button>
-                  </span>
-                  <input type="text" className="search-form_input form-control" name="s" autoComplete="off" placeholder="Type & hit enter..." />
-                  <span className="input-group-addon close-search"><i className="fas fa-times font-size18 line-height-28 margin-5px-top"></i></span>
-                </div>
-              </form>
-            </div>
-          </div>
-
           <BannerSection />
           <div className="menu_area alt-font">
             <div className="container">

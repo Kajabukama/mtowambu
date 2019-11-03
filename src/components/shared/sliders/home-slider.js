@@ -25,7 +25,7 @@ class HomeSlider extends React.Component {
             <div>
               <img src={item.userProfile} alt={item.user} />
               <span>
-                Posted by <strong>{item.user}</strong>
+                authored by <strong>{item.user}</strong>
               </span>
             </div>
           </div>
